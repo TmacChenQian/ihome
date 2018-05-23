@@ -5,6 +5,6 @@ app = Flask(__name__)
 
 @app.route("/index")
 def index():
-    return "ihome v1_0"
+    return "ihome v1_1"
 
 app.run()
